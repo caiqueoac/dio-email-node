@@ -1,0 +1,13 @@
+{
+  "name": "dio-email-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/caiqueoac/dio-email-node.git",
+  "author": "Caiqueoac <caiqueoc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.0"
+  }
+}
